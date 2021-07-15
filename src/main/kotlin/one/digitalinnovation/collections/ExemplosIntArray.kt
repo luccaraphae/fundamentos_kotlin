@@ -35,5 +35,16 @@ fun main () {
     for (valor in values) {
         println(valor)
     }
+    println("_________________________________")
+
+
+    //IntArrayOf: simplifica a contrução do array
+    val valuesOf = intArrayOf(2, 7, 8, 4, 9, 2)
+
+    //Performa igualmente ao IntArray
+    valuesOf.forEach {
+        println(it)
+    }
+    println("_________________________________")
 
 }
