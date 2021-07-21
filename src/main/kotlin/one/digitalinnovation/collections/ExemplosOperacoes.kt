@@ -2,7 +2,7 @@ package one.digitalinnovation.collections
 
 fun main(){
 
-    val salario_base = doubleArrayOf(2300.00,1689.00,1095.00,971.22)
+    val salario_base = doubleArrayOf(2300.00,1689.00,1095.00,971.22,3500.00)
 
     //Apresenta o maior valor do Array
     println("O maior salário é ${salario_base.maxOrNull()}")
@@ -18,4 +18,12 @@ fun main(){
     maiorQue.forEach {
         println(it)
     }
+    println("_________________________________")
+
+    //Conta os valores em uma range e imprime na tela
+    println(salario_base.count {it in 2000.0..4000.0})
+    //Procura um valor na condição estabelecida
+    println(salario_base.find { it == 2000.0 })
+    //Retorna um boleano na condição estabelecida
+    println(salario_base.any { it > 900.00 })
 }
