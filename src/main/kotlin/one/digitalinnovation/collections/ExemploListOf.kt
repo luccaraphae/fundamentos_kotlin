@@ -18,4 +18,9 @@ fun main(){
 
     //Procura um funcionário na condição estabelecida e se verdadeiro apresenta os dados, se falso retorna null
     println(funcionarios.find{ it.nome == "Lucas de Amourim" })
+
+    println("_________________________________")
+
+    //Imprime os resultados organizados de forma crescente pelo atributo salário
+    funcionarios.sortedBy { it.salario }.forEach { println(it) }
 }
