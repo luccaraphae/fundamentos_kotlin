@@ -1,0 +1,95 @@
+[33mcommit f7abbd094302cdfbf014b5844ddca5426808337b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Fri Sep 3 17:20:41 2021 -0300
+
+    c14- Criando e testando classe ExemploFuncoesExtendidas
+
+[33mcommit de4604c2e897a3fa598f0a7669a1d7d34fe3484e[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Mon Aug 2 20:04:51 2021 -0300
+
+    c14- Criando e testando classe ExemploMutableListOf
+
+[33mcommit 10d1cd6423aa38d99d73c45567566bbbe584d0e6[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Mon Aug 2 19:42:30 2021 -0300
+
+    c13- Criando e testando classe ExemploMapOf e função Pair
+
+[33mcommit 2b7e25b16398dee96e038a40ca7f46df1bc649c5[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Mon Jul 26 12:39:09 2021 -0300
+
+     c12- Criando classe ExemploSetOf com as propriedades Union, Subtract e Intersect
+
+[33mcommit 356a194a51b9630f0fd6e112ed6c8b20506fa7ac[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Mon Jul 26 11:32:17 2021 -0300
+
+     c11- Complementando a classe ExemploListOf adicionando GroupBy e atributo em classe Funcionario
+
+[33mcommit 83ee1393eb073f4af75456aee0ac0053510c3c4a[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Mon Jul 26 11:10:40 2021 -0300
+
+     c10- Complementando a classe ExemploListOf, adicionando SortedBy
+
+[33mcommit 299b19ff189b3091c000b0f5d1cfc64745544953[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 21 12:29:55 2021 -0300
+
+    c09- Criando a classe ExemploListOf, adicionando e testando suas funções
+
+[33mcommit f6fdb6e184cecbc09136b7ed399777269e4cd9be[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 21 12:21:24 2021 -0300
+
+    c08- Atualizando classe Funcionario ao subscrever função toString para melhor apresentação dos dados
+
+[33mcommit 5121d88227fac4aa55122cd6c10c54b6091d4bd7[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 21 11:58:27 2021 -0300
+
+    c07- Criando classe Funcionario
+
+[33mcommit c4c17a91d2ccdcff0a1e1810bfab0a72f666085e[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 21 11:45:57 2021 -0300
+
+    c06 - Complementando classe ExemplosOperacoes com os atributos Count, Find e Any
+
+[33mcommit dc22441d271f4b3ab9c82fe4888dee1f7f5f9eda[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Fri Jul 16 20:08:00 2021 -0300
+
+    c05- Criando classe exemplo de Operações Max, Min, Avarege
+
+[33mcommit b8e939c66063ae18c4b7cb3b4a53103d2a573c92[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Fri Jul 16 19:48:30 2021 -0300
+
+    c04- Criando classe exemplo de DoubleArray
+
+[33mcommit e75161acd3ee002ae14bfed8438510e651dede26[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Thu Jul 15 22:55:02 2021 -0300
+
+    c03 - Criando classe ExemplosArrayString
+
+[33mcommit 570c9e9e852cd77200e016b720ce43bba9d7dacb[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 14 21:38:49 2021 -0300
+
+    c02 - Incluindo exemplo de IntArrayOf na classe ExemplosIntArray
+
+[33mcommit 81d81e90abe4d88ee2f08eb2077d1aadee225f34[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 14 21:05:33 2021 -0300
+
+    c01 - Criando classe exemplo de IntArray
+
+[33mcommit e962bc3c5065480f0f3358561126532659559659[m
+Author: Lucca Raphael <luccaraphae@gmail.com>
+Date:   Wed Jul 14 20:58:30 2021 -0300
+
+    c00- Commit inicial

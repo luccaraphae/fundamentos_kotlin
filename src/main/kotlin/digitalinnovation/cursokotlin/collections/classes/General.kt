@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections.classes
+package digitalinnovation.cursokotlin.collections.classes
 
 class General <T> {
     val mapMutable= mutableMapOf<String, T>()

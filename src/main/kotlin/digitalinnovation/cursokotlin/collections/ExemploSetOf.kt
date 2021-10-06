@@ -1,6 +1,6 @@
-package one.digitalinnovation.collections
+package digitalinnovation.cursokotlin.collections
 
-import one.digitalinnovation.collections.classes.Funcionario
+import digitalinnovation.cursokotlin.collections.classes.Funcionario
 
 fun main() {
     //criando variáveis dos funcionários e adicionadno seus atributos

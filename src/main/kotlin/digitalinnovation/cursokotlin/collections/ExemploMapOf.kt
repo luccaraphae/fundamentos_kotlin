@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package digitalinnovation.cursokotlin.collections
 
 fun main() {
     //Função Pair cria uma collection com uma Key e um Value e a função MapOf cria uma lista dessas chaves e valores

@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections.classes
+package digitalinnovation.cursokotlin.collections.classes
 
 data class Funcionario(
     val nome:String,

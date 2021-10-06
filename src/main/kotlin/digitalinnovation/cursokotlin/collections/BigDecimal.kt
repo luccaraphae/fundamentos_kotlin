@@ -1,4 +1,4 @@
-package one.digitalinnovation.collections
+package digitalinnovation.cursokotlin.collections
 
 import java.math.BigDecimal
 
